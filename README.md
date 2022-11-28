@@ -17,7 +17,7 @@
 
 <h2> My bio~ </h2>
 
-<img width="55%" align="right" alt="Github" src="https://www.giantbomb.com/a/uploads/scale_small/40/402214/3071607-ikoni.png" />
+<img width="40%" align="right" alt="Github" src="https://www.giantbomb.com/a/uploads/scale_small/40/402214/3071607-ikoni.png" />
 
 - 🏫 I’m study at Sarawittaya School so if you're studying there too, let's be friends! >w<
   
