@@ -3,20 +3,16 @@
 </p>
 
 <h1> Ello guys ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=callmehlitz.callmehlitz)
 [![Github](https://img.shields.io/github/followers/callmehlitz?label=Follow&style=social)](https://github.com/callmehlitz)
 
-<div size='90px' class='pop'> Hey guys! My name's Alice. Tysm for visiting my GitHub Profile. 
-  <style>
-    .pop{
-     color:rgb(211, 145, 255);
-     font-size: 20px;
-     font-family: cursive;
-    }
-   </style>
+<div size='20px'> Hey guys! My name's Alice. Tysm for visiting my GitHub Profile. 
 </div>
-<br>
+    
 <img src = "https://media.tenor.com/ShzdJcrguswAAAAC/burn-elmo.gif" width = 300px>
 
 <h2> My bio~ </h2>
