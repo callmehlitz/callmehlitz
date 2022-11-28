@@ -12,7 +12,7 @@
 
 <div size='20px'> Hey guys! My name's Alice. Tysm for visiting my GitHub Profile. 
 </div>
-    
+<br>
 <img src = "https://media.tenor.com/ShzdJcrguswAAAAC/burn-elmo.gif" width = 300px>
 
 <h2> My bio~ </h2>
