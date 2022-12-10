@@ -38,7 +38,7 @@
 <br>
   <br>
   
-[![callmehlitz's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=callmehlitz&theme=tokyonight)](https://git.io/praveenscience)
+[![callmehlitz's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=callmehlitz&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![callmehlitz's github stats](https://github-readme-stats.vercel.app/api?username=callmehlitz&show_icons=true&theme=tokyonight) | ![callmehlitz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=callmehlitz&theme=tokyonight) |
 | --- | --- |
