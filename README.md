@@ -1,5 +1,6 @@
 <p align="center">
-    <img width="300" src="https://github.com/callmehlitz/callmehlitz/blob/main/assets/myimg1.png?raw=true">
+    <img width="300" src="https://github.com/user-attachments/assets/58e04eb2-4075-42f8-9e0c-149f817421bb
+">
 </p>
 
 <h1> Ello guys ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
